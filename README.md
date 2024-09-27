@@ -2,7 +2,7 @@
 In this game, you play as a warehouse worker whose job is to push boxes into their designated locations.
 
 <div align="center">
-    <img src="/screenshots/mainmenu.png" width="400"/>
+    <img src="mainmenu.png" width="400"/>
 </div>
 
 ### Installation
@@ -28,13 +28,13 @@ The player can be controlled using the arrows keys. The goal is to push the red 
 * Timer: A stopwatch timer is displayed upon entering a level which will stop once the level has been completed.
 
 <div align="center">
-    <img src="/screenshots/level1.png" width="400"/>
+    <img src="level1.png" width="400"/>
 </div>
 
 * Scoreboard: A display of best times for each level.
 
 <div align="center">
-    <img src="/screenshots/scoreboard.png" width="400"/>
+    <img src="scoreboard.png" width="400"/>
 </div>
 
 ### Resources
